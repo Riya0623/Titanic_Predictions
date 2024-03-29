@@ -1,4 +1,4 @@
-# Titanic_Predictions
+
 # Titanic Survival Prediction :ship:
 
 This script performs data analysis and builds a predictive model for the Titanic dataset to predict survival based on various features. It includes steps such as data exploration, visualization, feature engineering, data preprocessing, model training, and evaluation.
